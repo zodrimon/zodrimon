@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Aktaruzzaman+Rimon;Cybersecurity+Student;CRTA+Candidate;Active+Directory+Enthusiast;Red+Team+Learner;Network+Security+Explorer" />
-
-</div>
-
----
-
 # 🕷️ Hallo, das ist RONINXYG. Und do?
 
 ```txt
@@ -82,7 +74,7 @@
 
 ---
 
-## 2026 Objectives
+## 🎯 2026 Objectives
 
 - [ ] CRTA Certification
 - [ ] Complete Advanced Windows PrivEsc
