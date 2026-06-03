@@ -1,4 +1,4 @@
-### 🕷️ Hallo, das ist RONINXYG. Und do?
+### 🕷️ Hallo, das ist RONINXYG.
 
 ```txt
 [+] Name       : Aktaruzzaman Rimon
