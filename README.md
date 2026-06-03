@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hey, I'm Aktaruzzaman Rimon
+# 🕷️ Hallo, das ist RONINXYG. Und do?
 
 ```txt
 [+] Name       : Aktaruzzaman Rimon
@@ -58,22 +58,7 @@
 
 ---
 
-## 📈 Skill Matrix
-
-| Domain | Level |
-|----------|----------|
-| Networking | ████████░░ 80% |
-| Web Security | ███████░░░ 70% |
-| Forensics    | ███████░░░ 70% |
-| Active Directory | ██████░░░░ 60% |
-| Windows PrivEsc | ██████░░░░ 60% |
-| Malware Analysis | ████░░░░░░ 40% |
-| Linux | ████████░░ 80% |
-| Python | ███████░░░ 70% |
-
----
-
-## 🏆 Certifications & Training
+## Certifications & Training
 
 ```txt
 [+] CRTA                (In Progress)
@@ -86,32 +71,7 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 📚 Cyber Notes
-My personal cybersecurity learning notes and CRTA preparation materials.
-
-### 🔐 Screen Tab Locker
-Python project for securing active sessions.
-
-### 🛡 Online Harassment Evidence Collection
-Evidence collection platform built using C# and SQL Server.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zodrimon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodrimon&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -119,22 +79,12 @@ Evidence collection platform built using C# and SQL Server.
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/zodrimon/zodrimon/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
-## 🎯 2026 Objectives
+## 2026 Objectives
 
 - [ ] CRTA Certification
-- [ ] Build Home Active Directory Lab
 - [ ] Complete Advanced Windows PrivEsc
 - [ ] Learn Kerberos Attacks
 - [ ] Learn C2 Frameworks
@@ -148,9 +98,25 @@ Evidence collection platform built using C# and SQL Server.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
----
+
+<a href="https://linkedin.com/in/roninxyg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+<a href="https://facebook.com/roninxyg" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+
+<a href="https://instagram.com/xyg.rimon" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 
 <div align="center">
+
+---
 
 ```txt
 root@zodrimon:~# whoami
